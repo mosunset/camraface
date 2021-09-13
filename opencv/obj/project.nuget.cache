@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2GSoyA/8Xsa0Z3LzAp+ka2IxQIgCd30OVyHwM0R4y5wzcma4LVaEu25KP3irAazaX6iPF4uRokF0r+g4ChiWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drive\\OneDrive\\デスクトップ\\opencv\\opencv\\opencv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drive\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\opencvsharp4\\4.5.3.20210817\\opencvsharp4.4.5.3.20210817.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.3.20210817\\opencvsharp4.runtime.win.4.5.3.20210817.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\opencvsharp4.windows\\4.5.3.20210817\\opencvsharp4.windows.4.5.3.20210817.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.5.3.20210817\\opencvsharp4.wpfextensions.4.5.3.20210817.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\drive\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}
